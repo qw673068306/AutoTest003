@@ -1,114 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b06ac61e-4b66-4d54-b9de-1282dfd89f0f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/cases/AddUserTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/cases/GetUserInfoListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/cases/GetUserInfoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/cases/LoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/cases/UpdateUserInfoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/config/ExtentTestNGIReporterListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/config/TestConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/AddUserCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/GetUserInfoCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/GetUserListCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/InterfaceName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/LoginCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/UpdateUserInfoCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/utils/ConfigFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/utils/DateBaseUtiil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/resources/databaseConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/resources/mapper/SQLMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/resources/testng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/Chapter12-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/classes/com/course/cases/AddUserTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/classes/com/course/cases/GetUserInfoListTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/classes/com/course/cases/GetUserInfoTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/classes/com/course/cases/LoginTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/classes/com/course/cases/UpdateUserInfoTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/classes/com/course/config/ExtentTestNGIReporterListener$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/classes/com/course/config/ExtentTestNGIReporterListener.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/classes/com/course/config/TestConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/classes/com/course/model/AddUserCase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/classes/com/course/model/GetUserInfoCase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/classes/com/course/model/GetUserListCase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/classes/com/course/model/InterfaceName.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/classes/com/course/model/LoginCase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/classes/com/course/model/UpdateUserInfoCase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/classes/com/course/model/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/classes/com/course/utils/ConfigFile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/classes/com/course/utils/DateBaseUtiil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/classes/databaseConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/classes/mapper/SQLMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/classes/testng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/surefire-reports/TestSuite.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/surefire-reports/bullet_point.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/surefire-reports/collapseall.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/surefire-reports/emailable-report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/surefire-reports/failed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/surefire-reports/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/surefire-reports/jquery-1.7.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/surefire-reports/junitreports/TEST-com.course.cases.AddUserTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/surefire-reports/junitreports/TEST-com.course.cases.GetUserInfoListTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/surefire-reports/junitreports/TEST-com.course.cases.GetUserInfoTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/surefire-reports/junitreports/TEST-com.course.cases.LoginTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/surefire-reports/junitreports/TEST-com.course.cases.UpdateUserInfoTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/surefire-reports/navigator-bullet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/surefire-reports/old/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/surefire-reports/old/用户管理系统测试套件/classes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/surefire-reports/old/用户管理系统测试套件/groups.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/surefire-reports/old/用户管理系统测试套件/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/surefire-reports/old/用户管理系统测试套件/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/surefire-reports/old/用户管理系统测试套件/methods-alphabetical.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/surefire-reports/old/用户管理系统测试套件/methods-not-run.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/surefire-reports/old/用户管理系统测试套件/methods.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/surefire-reports/old/用户管理系统测试套件/reporter-output.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/surefire-reports/old/用户管理系统测试套件/testng.xml.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/surefire-reports/old/用户管理系统测试套件/toc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/surefire-reports/old/用户管理系统测试套件/用户管理系统测试用例.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/surefire-reports/passed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/surefire-reports/skipped.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/surefire-reports/testng-reports.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/surefire-reports/testng-reports.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/surefire-reports/testng-results.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/surefire-reports/testng.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/surefire-reports/用户管理系统测试套件/用户管理系统测试用例.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/surefire-reports/用户管理系统测试套件/用户管理系统测试用例.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/surefire/surefire4417727225141523449tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/target/surefire/surefire695776581638400204tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter12/test-output/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/course/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/course/controller/Dome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/course/controller/SwaggerCongfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/course/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/mysql.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/Chapter11.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/course/Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/course/controller/Dome.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/course/model/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="b06ac61e-4b66-4d54-b9de-1282dfd89f0f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Chapter12/target/" />
@@ -151,8 +44,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="11070">
-              <caret line="369" column="14" selection-start-line="369" selection-start-column="14" selection-end-line="369" selection-end-column="14" />
+            <state relative-caret-position="7890">
+              <caret line="263" column="14" selection-start-line="263" selection-start-column="14" selection-end-line="263" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -515,8 +408,16 @@
       <workItem from="1599654023464" duration="119000" />
       <workItem from="1599658390906" duration="1451000" />
       <workItem from="1599752799214" duration="965000" />
-      <workItem from="1599867341788" duration="1323000" />
+      <workItem from="1599867341788" duration="2045000" />
     </task>
+    <task id="LOCAL-00001" summary="test01">
+      <created>1599868838719</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599868838719</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -552,7 +453,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="151461000" />
+    <option name="totallyTimeSpent" value="152183000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -582,7 +483,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.328877" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.328877" />
       <window_info anchor="bottom" id="Spring" order="9" weight="0.328877" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.328877" />
@@ -604,6 +505,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test01" />
+    <option name="LAST_COMMIT_MESSAGE" value="test01" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -952,8 +857,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11070">
-          <caret line="369" column="14" selection-start-line="369" selection-start-column="14" selection-end-line="369" selection-end-column="14" />
+        <state relative-caret-position="7890">
+          <caret line="263" column="14" selection-start-line="263" selection-start-column="14" selection-end-line="263" selection-end-column="14" />
         </state>
       </provider>
     </entry>
