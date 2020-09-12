@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd"
+         >
+
+<configuration>
+    <settings>
+        <!-- 打印查询语句 -->
+        <setting name="logImpl" value="STDOUT_LOGGING" />
+    </settings>
+    <!-- 注册对象的空间命名 -->
+    <environments default="development">
+    <environment id="development">
+    <transactionManager type="JDBC"/>
+    <dataSource type="POOLED">
+    <!-- 1.加载数据库驱动 -->
+    <property value="com.mysql.cj.jdbc.Driver" name="driver"/>
+    <!-- 2.数据库连接地址 -->
+    <property value="jdbc:mysql://127.0.0.1:3306/course?serverTimezone=UTC&amp;useSSL=false" name="url"/>
+    <!-- 数据库用户... -->
+    <property value="root" name="username"/>
+    <!-- 数据库密码... -->
+    <property value="wubin2" name="password"/>
+</dataSource>
+</environment>
+</environments>
+
+    <!-- 注册映射文件：java对象与数据库之间的xml文件路径！ -->
+    <mappers>
+    <mapper resource="mapper/SQLMapper.xml"/>
+</mappers>
+
+</configuration>
